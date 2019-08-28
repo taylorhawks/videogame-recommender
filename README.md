@@ -3,5 +3,4 @@
 Collaborative filtering for videogame recommendations based on Steam playtime.
 
 ### To do
-- Get data on docker
-- Set up pyspark
+- Mess with implicit ratings to get better recommendations (it's recommending really weird games)
